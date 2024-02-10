@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Images/win1.png</file>
+        <file>Images/win2.png</file>
+        <file>Images/win3.png</file>
+        <file>Images/enterName.png</file>
+        <file>Images/howTowWin.png</file>
+        <file>Images/turn2.png</file>
+        <file>Images/turnEnd.png</file>
+        <file>Images/ohterInformations.png</file>
+        <file>Images/startActive.png</file>
+        <file>Images/toturial.png</file>
+        <file>Images/turn1.png</file>
+        <file>Images/howToPlay.png</file>
+        <file>Images/Wallpaper.png</file>
+        <file>Images/line 2.png</file>
+        <file>Images/line 3.png</file>
+        <file>Images/line 4.png</file>
+        <file>Images/line1.png</file>
+        <file>Images/Game_Icon.ico</file>
+        <file>Images/Exit_Icon.ico</file>
+        <file>Images/HowToPlay_Icon.png</file>
+        <file>Images/NewGame_Icon.png</file>
+        <file>Images/Credits_Icon.png</file>
+        <file>Sounds/pushButtonClick1.wav</file>
+        <file>Sounds/winningSound.wav</file>
+        <file>Sounds/backGroundMusic.wav</file>
+        <file>Sounds/drawSound.wav</file>
+        <file>Images/DarkTheme.png</file>
+    </qresource>
+</RCC>
